@@ -1,4 +1,4 @@
-# git-how-to
+# how-to-git
 
 This repository helps me to learn git commands and concepts
 
